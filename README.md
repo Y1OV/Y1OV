@@ -28,8 +28,11 @@
 ## Repositories
 
 **Data Analysis** - [ссылка](https://github.com/Y1OV/DA)
+
 **Machine Learning** - [ссылка](https://github.com/Y1OV/ML)
+
 **Deep Learning** - [ссылка](https://github.com/Y1OV/DL)
+
 **Example of a streamlit service** - [ссылка](https://github.com/Y1OV/AH_front)
 
 
