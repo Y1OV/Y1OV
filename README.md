@@ -1,7 +1,14 @@
 ## Hi there 👋
 
- - Deep Learning: NLP, Computer Vision, Key Point Detection.
- - Machine Learning:} Регрессия, Классификация, Catboost, Feature Engineering, Оценка и валидация моделей.
-- Programming Languages: Python, SQL.
-- Tools and Technologies: Git, Streamlit, \LaTeX.
+
+## Skills
+✨ **Deep Learning:** PyTorch, NLP, CV, Key Point Detection, YoLOv10.
+
+💡 **Machine Learning:** Regression, Classification, Catboost, Feature Engineering, Model Evaluation and Validation.
+
+👨‍💻 **Programming Languages:** Python, SQL.
+
+🛠️ **Tools and Technologies:** Git, Streamlit, $\LaTeX$.
+
+
 
