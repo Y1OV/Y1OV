@@ -1,14 +1,16 @@
 ## Hi there 👋
 
+# Ukolov Stepan 🔥
+## ML Engineer 💣
 
 ## Skills
-✨ **Deep Learning:** PyTorch, NLP, CV, Key Point Detection, YoLOv10.
+💥 **Deep Learning:** PyTorch, NLP, CV, Key Point Detection, YoLOv10.
 
-💡 **Machine Learning:** Regression, Classification, Catboost, Feature Engineering, Model Evaluation and Validation.
+❄ **Machine Learning:** Regression, Classification, Catboost, Feature Engineering, Model Evaluation and Validation.
 
-👨‍💻 **Programming Languages:** Python, SQL.
+💻 **Programming Languages:** Python, SQL.
 
-🛠️ **Tools and Technologies:** Git, Streamlit, $\LaTeX$.
+🔧 **Tools and Technologies:** Git, Streamlit, $\LaTeX$.
 
 
 
