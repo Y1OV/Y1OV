@@ -25,6 +25,12 @@
 - **[IT Purple Hack 2024 - Forecasting Churn of Payroll Clients.](https://github.com/ikanam-ai/SberClassification)**  
   _4th place._ A model for forecasting client churn using the CatBoost algorithm.
 
+## Repositories
+
+**Data Analysis** - [ссылка](https://github.com/Y1OV/DA)
+**Machine Learning** - [ссылка](https://github.com/Y1OV/ML)
+**Deep Learning** - [ссылка](https://github.com/Y1OV/DL)
+**Example of a streamlit service** - [ссылка](https://github.com/Y1OV/AH_front)
 
 
 
