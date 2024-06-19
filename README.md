@@ -1,7 +1,5 @@
-## Hi there 👋
-
-# Ukolov Stepan 🔥
-## ML Engineer 💣
+## Ukolov Stepan 🔥
+**ML Engineer 💣**
 
 ## Skills
 💥 **Deep Learning:** PyTorch, NLP, CV, Key Point Detection, YoLOv10.
