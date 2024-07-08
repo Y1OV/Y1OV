@@ -22,8 +22,10 @@
 - **[DigitalHack 2024 - Normalization of Nomenclature to the Official Classifier.](https://github.com/ikanam-ai/nomenclature_normalization)**  
   _5th place._ An AI-powered software module for matching construction nomenclature to the construction resource directory.
 
-- **[IT Purple Hack 2024 - Forecasting Churn of Payroll Clients.](https://github.com/ikanam-ai/SberClassification)**  
-  _4th place._ A model for forecasting client churn using the CatBoost algorithm.
+- **[DigitalHack 2024 - Qna system for technical documentation.](https://github.com/ikanam-ai/Qna-system-for-technical-documentation)**  
+  _4th place._ A web service that collects information and generates answers to users' questions by analyzing text and/or code.
+
+ 
 
 ## Repositories
 
