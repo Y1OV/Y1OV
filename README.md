@@ -1,6 +1,3 @@
-## Ukolov Stepan 🔥
-**ML Engineer 💣**
-
 ## Skills
 💥 **Deep Learning:** PyTorch, NLP, CV, Object detection, Object recognition.
 
