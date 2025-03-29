@@ -25,7 +25,7 @@
 
 - **Deep Learning** - [ссылка](https://github.com/Y1OV/DL)
 
-- **Example of a RAG service on streamlite** - [ссылка](https://github.com/Y1OV/rag4rent)
+- **Example of a RAG service on streamlit** - [ссылка](https://github.com/Y1OV/rag4rent)
 
 
 
