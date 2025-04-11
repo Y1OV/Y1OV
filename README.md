@@ -9,6 +9,9 @@
 - **[AtomicHack 2024 - Detection and Classification of Welding Seam Defects.](https://github.com/ikanam-ai/Detection-of-welding-seams)**  
   _3rd place._ A service based on YoloV10 for working with images of welding seam defects from Rosatom.
 
+- **[TenderHack 2025 - SupplierAssistant.](https://github.com/ikanam-ai/SupplierAssistant)**  
+  _4th place._ An AI-powered chatbot for suppliers and contracting authorities on the Supplier Portal. Uses a graph-based RAG pipeline built with LangGraph for precise and up-to-date responses.
+
 - **[DigitalHack 2024 - Normalization of Nomenclature to the Official Classifier.](https://github.com/ikanam-ai/nomenclature_normalization)**  
   _5th place._ An AI-powered software module for matching construction nomenclature to the construction resource directory.
 
